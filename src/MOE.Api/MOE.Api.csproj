@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\MOE.Sdk\MOE.Sdk.csproj" />
+    <ProjectReference Include="..\MOE.Core\MOE.Core.csproj" />
+    <ProjectReference Include="..\MOE.Persistence\MOE.Persistence.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

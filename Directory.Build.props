@@ -1,0 +1,12 @@
+﻿<Project>
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <Authors>Danilo Garro</Authors>
+    <Company>MOE Project</Company>
+    <Copyright>Copyright (c) Danilo Garro</Copyright>
+    <RepositoryUrl>https://github.com/danilogarro/modern-orchestrator-engine</RepositoryUrl>
+  </PropertyGroup>
+</Project>

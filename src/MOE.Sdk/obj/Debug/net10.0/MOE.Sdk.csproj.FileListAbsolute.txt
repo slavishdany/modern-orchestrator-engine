@@ -1,0 +1,4 @@
+C:\Users\danil\source\repos\modern-orchestrator-engine\MOE\src\MOE.Sdk\obj\Debug\net10.0\MOE.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\modern-orchestrator-engine\MOE\src\MOE.Sdk\obj\Debug\net10.0\MOE.Sdk.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\modern-orchestrator-engine\MOE\src\MOE.Sdk\obj\Debug\net10.0\MOE.Sdk.AssemblyInfo.cs
+C:\Users\danil\source\repos\modern-orchestrator-engine\MOE\src\MOE.Sdk\obj\Debug\net10.0\MOE.Sdk.csproj.CoreCompileInputs.cache

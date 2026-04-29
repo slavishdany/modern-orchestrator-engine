@@ -1,0 +1,27 @@
+{
+  "id": "sample-plugin",
+  "name": "Sample Plugin",
+  "version": "1.0.0",
+  "entryType": "MOE.SamplePlugin.SamplePlugin",
+  "description": "Reference implementation demonstrating the MOE plugin contract.",
+  "schedule": {
+    "intervalSeconds": 60,
+    "runOnStartup": true
+  },
+  "retry": {
+    "maxAttempts": 3,
+    "delaySeconds": 30,
+    "backoff": "Exponential"
+  },
+  "timeout": {
+    "executionSeconds": 120
+  },
+  "capabilities": {
+    "reflection": "None",
+    "filesystemRead": [],
+    "filesystemWrite": [],
+    "allowedHosts": [],
+    "externalDependencies": []
+  },
+  "tags": [ "sample", "reference" ]
+}
