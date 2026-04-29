@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RTDuT4zERV8=",
+  "dgSpecHash": "C8tHR7LyT6k=",
   "success": true,
   "projectFilePath": "C:\\Users\\danil\\source\\repos\\modern-orchestrator-engine\\MOE\\src\\MOE.Persistence\\MOE.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.7\\microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.7\\microsoft.extensions.primitives.10.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cayr/rXR2ak=",
+  "dgSpecHash": "dbxzQQ+nhrs=",
   "success": true,
   "projectFilePath": "C:\\Users\\danil\\source\\repos\\modern-orchestrator-engine\\MOE\\src\\MOE.Security\\MOE.Security.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.7\\microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.7\\microsoft.extensions.primitives.10.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

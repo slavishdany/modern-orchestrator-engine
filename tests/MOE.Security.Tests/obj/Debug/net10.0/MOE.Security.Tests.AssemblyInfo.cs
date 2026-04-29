@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright (c) Danilo Garro")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd929a43239b546970690d8a324d6b1e033aeef2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11a396182cc86998d6b5dcee9fc596cd5759205c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MOE.Security.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MOE.Security.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
